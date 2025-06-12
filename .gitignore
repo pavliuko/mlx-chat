@@ -43,9 +43,6 @@ playground.xcworkspace
 # System
 .DS_Store
 
-# Cursor
-.cursor/
-
 # User-specific
 *.xcuserstate
 *.xcworkspace/xcuserdata/ 
