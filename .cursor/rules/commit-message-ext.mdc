@@ -1,0 +1,6 @@
+---
+description: Use this rule to create git commit message
+globs: 
+alwaysApply: false
+---
+Commit message should follow rules from @conventional-commits-spec document. Every parts of commit message should be generated based on the changes made.
