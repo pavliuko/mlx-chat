@@ -5,6 +5,9 @@ alwaysApply: true
 ---
 # SwiftUI 2025 Architecture Rules
 
+*(Inspired by Thomas Ricouard's article: [SwiftUI in 2025: Forget MVVM](https://dimillian.medium.com/swiftui-in-2025-forget-mvvm-262ff2bbd2ed))*
+
+
 ## Core Philosophy
 
 * SwiftUI is no longer a "new" framework — it’s the default UI paradigm for Apple platforms.
